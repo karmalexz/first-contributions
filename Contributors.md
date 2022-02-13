@@ -17,7 +17,7 @@
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [Jandir Porta] (https://github.com/jandirdlctm)
 - [Roisul Islam Rumi] (https://github.com/RoisulIslamRumi)
-- [Alex Zhang] (https://github.com/karmalexz)
+- [Alex  Zhang] (https://github.com/karmalexz)
 - [Daniel Adesanya](https://github.com/4x3l3r8)
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
 - [nirav kumar]
